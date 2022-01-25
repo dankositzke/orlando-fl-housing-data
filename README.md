@@ -1,3 +1,3 @@
-# Dash Template
+## Link to Updated Repo
 
-[Instructions](https://lambdaschool.github.io/ds/unit2/dash-template/)
+https://github.com/dankositzke/orlando-house-price-estimator
